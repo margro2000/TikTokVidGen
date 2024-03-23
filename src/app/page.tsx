@@ -10,10 +10,10 @@ export default function Component() {
     <div className="grid md:grid-cols-2 items-start gap-6 xl:gap-12">
       <div className="flex flex-col justify-center space-y-4">
         <div className="space-y-2">
-          <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">Generate Short Form Video instantly</h1>
-          <p className="max-w-[500px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-            educational AI videos and applications
-          </p>
+        <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl mt-10 text-center">Generate Short Form Video Instantly</h1>
+        <p className="max-w-[500px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400 text-center">
+    Generate Video, Post Instantly and Scale
+</p>
         </div>
         <div className="flex flex-col gap-2">
           <div className="inline-flex rounded-lg border border-gray-200 border-gray-200 bg-white dark:border-gray-800 dark:border-gray-800 dark:bg-gray-950">
